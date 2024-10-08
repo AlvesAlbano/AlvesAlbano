@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">Meu nome é Samir Alves e sou estudante na UNIFOR de Ciência da computação. Atualmente no 4º Semestre e procurando estagio na área 🙂.</p>
+<p align="left">Meu nome é Samir Alves e sou estudante na UNIFOR de Ciência da computação. Atualmente procurando estagio na área 🙂.</p>
 <h2 align="left">Tenho conhecimento em</h2>
 
 <div align="left">
